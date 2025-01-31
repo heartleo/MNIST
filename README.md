@@ -16,6 +16,7 @@ APIs.
 
 ### Install Gradient CLI
 
+
 ```
 pip install -U gradient
 ```
